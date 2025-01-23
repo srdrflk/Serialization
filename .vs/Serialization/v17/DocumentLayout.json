@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\xmlserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|solutionrelative:xmlserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\xmlserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|solutionrelative:xmlserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\xmlserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18AF26D-1511-40A9-8BC7-A2CA8F6C067E}|XMLSerialization\\XMLSerialization.csproj|solutionrelative:xmlserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\jsonserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|solutionrelative:jsonserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\binaryserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|solutionrelative:binaryserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\jsonserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|solutionrelative:jsonserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\jsonserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16744BE3-1497-4B31-9823-BF204132F9E2}|JsonSerialization\\JsonSerialization.csproj|solutionrelative:jsonserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\binaryserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|solutionrelative:binaryserialization\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\serialization\\binaryserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E73553-747B-412C-8330-95AA46CDB6BC}|BinarySerialization\\BinarySerialization.csproj|solutionrelative:binaryserialization\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Department.cs",
+              "RelativeDocumentMoniker": "XMLSerialization\\Department.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Department.cs",
+              "RelativeToolTip": "XMLSerialization\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:46:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Employee.cs",
+              "RelativeDocumentMoniker": "XMLSerialization\\Employee.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Employee.cs",
+              "RelativeToolTip": "XMLSerialization\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:45:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Department.cs",
+              "RelativeDocumentMoniker": "JsonSerialization\\Department.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Department.cs",
+              "RelativeToolTip": "JsonSerialization\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:32:42.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Employee.cs",
+              "RelativeDocumentMoniker": "JsonSerialization\\Employee.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Employee.cs",
+              "RelativeToolTip": "JsonSerialization\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:31:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Department.cs",
+              "RelativeDocumentMoniker": "BinarySerialization\\Department.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Department.cs",
+              "RelativeToolTip": "BinarySerialization\\Department.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:57:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Employee.cs",
+              "RelativeDocumentMoniker": "BinarySerialization\\Employee.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Employee.cs",
+              "RelativeToolTip": "BinarySerialization\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:56:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Program.cs",
+              "RelativeDocumentMoniker": "JsonSerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\JsonSerialization\\Program.cs",
+              "RelativeToolTip": "JsonSerialization\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:40:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Program.cs",
+              "RelativeDocumentMoniker": "XMLSerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\XMLSerialization\\Program.cs",
+              "RelativeToolTip": "XMLSerialization\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:39:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySerialization\\Program.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Serialization\\BinarySerialization\\Program.cs",
+              "RelativeToolTip": "BinarySerialization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:38:55.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
